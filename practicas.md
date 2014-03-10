@@ -12,3 +12,5 @@ Se entrega un objeto electrónico al estudiante, el cuál deberá:
 
 -Desarmarlo teniendo en cuenta el orden, tamaño y disposición de los tornillos.
 
+-Preguntarle al estudiante que componentes observa, cuales 
+
