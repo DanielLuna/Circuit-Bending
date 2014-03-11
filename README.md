@@ -7,6 +7,8 @@ Notas sobre Circuit Bending
 
 [Divulgación](divulgacion.md)
 
+[Profundización](profundizacion.md)
+
 [Proyecto casa de música electrónica](https://github.com/son0p/eeleX)
 
 
