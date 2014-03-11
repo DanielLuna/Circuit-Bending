@@ -11,6 +11,8 @@ Notas sobre Circuit Bending
 
 [Prácticas](practicas.md)
 
+[Rutinas de estudio](rutinasDeEstudio.md)
+
 [Proyecto casa de música electrónica](https://github.com/son0p/eeleX)
 
 
