@@ -1,4 +1,4 @@
-*El Circuit Bending o cortocircuitaje creativo es una técnica empleada para modificar, expandir o disminuir incluso, las funciones y características originales los aparatos electrónicos principalmente de bajo voltaje: juguetes, radios, instrumentos musicales, vídeo juegos, entre otros, con fines creativos diversos: música, vídeo, arte, o reciclaje de objetos.
+* El Circuit Bending o cortocircuitaje creativo es una técnica empleada para modificar, expandir o disminuir incluso, las funciones y características originales los aparatos electrónicos principalmente de bajo voltaje: juguetes, radios, instrumentos musicales, vídeo juegos, entre otros, con fines creativos diversos: música, vídeo, arte, o reciclaje de objetos.
 
 Considera el error como elemento estético inspirador y como medio de protesta al consumismo electrónico, al des uso programado por los fabricantes, la contaminación provocada y la incompatibilidad de los objetos entre si.
 
@@ -14,7 +14,7 @@ Si tenemos en cuenta que uno de sus fuertes es el error, entonces podemos decir 
 
 Aunque en nuestra ciudad es un poco reciente, en el mundo existe una gran comunidad de "circuit benders"  que han hecho de esta práctica un estilo de vida y de experimentación a prueba de tendencias o productos de moda,   apreciando más la tecnología obsoleta en donde los computadores, sintetizadores, organetas, juguetes, etc, antiguos, están a la orden del día y son los más buscados. 
 
-Los términos como error, glitch, tildado, corto, hacen parte de su glosario, pero no por ello sus efectos son inútiles o desagradables, por el contrario lo que se pretende es dar otra mirada a lo que comúnmente entendemos como ruido y notar que está compuesto por muchos sonidos interesantes y que con la práctica podremos aislar afín de encontrar los que más se acomoden al estilo buscado.* 
+Los términos como error, glitch, tildado, corto, hacen parte de su glosario, pero no por ello sus efectos son inútiles o desagradables, por el contrario lo que se pretende es dar otra mirada a lo que comúnmente entendemos como ruido y notar que está compuesto por muchos sonidos interesantes y que con la práctica podremos aislar afín de encontrar los que más se acomoden al estilo buscado. * 
 
 
 
