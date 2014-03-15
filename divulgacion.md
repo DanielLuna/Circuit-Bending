@@ -1,3 +1,8 @@
+
+<span style="color: blue;">Texto en azul</span> 
+<span style="color: #ffffff;">Texto en blanco</span>
+
+
 *El Circuit Bending o cortocircuitaje creativo es una técnica empleada para modificar, expandir o disminuir incluso, las funciones y características originales de aparatos electrónicos, principalmente, de bajo voltaje: juguetes, radios, instrumentos musicales, vídeo juegos, entre otros, con fines creativos diversos: música, vídeo, arte, o reciclaje de objetos.*
 
 *Considera el error como elemento estético inspirador y como medio de protesta al consumismo electrónico, al des uso programado por los fabricantes, la contaminación provocada y la incompatibilidad de los objetos entre si.*
