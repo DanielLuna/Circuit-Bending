@@ -1,8 +1,7 @@
-Ejercicios de aplicación...
 
 *Ejercicio de observación:
 
-Se entrega un objeto electrónico al estudiante, el cuál deberá:
+ Se entrega un objeto electrónico al estudiante, el cuál deberá:
 
 -Encender el objeto y hacerlo funcionar de la manera habitual.
 
@@ -12,5 +11,6 @@ Se entrega un objeto electrónico al estudiante, el cuál deberá:
 
 -Desarmarlo teniendo en cuenta el orden, tamaño y disposición de los tornillos.
 
--Preguntarle al estudiante que componentes observa, cuales 
+-Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
 
+-
