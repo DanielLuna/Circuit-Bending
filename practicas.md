@@ -16,6 +16,6 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 8- Agregarle un suiche para el encendido. [Solución](solucion800.md)
 
-9- Crear una salida de linea para el circuito.
+9- Crear una salida de linea para el circuito.[método sencillo](solucion900.md) [método ByPass](solucion901.md) 
 
 
