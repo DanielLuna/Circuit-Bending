@@ -6,7 +6,7 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 3- Que hace?
 
-4- Desarmarlo?
+4- Desarmarlo. 
 
 5- Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
 
@@ -14,6 +14,6 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 7- ¿que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste? [Solución](solucion700.md)
 
-8- agregarle un suiche de encendido. []()
+8- Agregarle un suiche de encendido. []()
 
 
