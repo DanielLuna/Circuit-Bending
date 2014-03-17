@@ -10,4 +10,6 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 5- Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
 
-6- 
+6- Que otros componentes le puede agregar al circuito.
+
+7- ¿que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste?   
