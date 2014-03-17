@@ -1,16 +1,15 @@
 
-*Ejercicio de observación:
 
- Se entrega un objeto electrónico al estudiante, el cuál deberá:
+Se entrega a cada estudiante un circuito electrónico con las carácteristicas de un aparato o juguete electrónico y se proponen los siguientes ejercicios:
 
--Encender el objeto y hacerlo funcionar de la manera habitual.
+1- conectarle la bateria. 
 
--Decir en sus palabras que hace y para que está creado el objeto.
+2- Decir en sus palabras como entiende su funcionamiento.
 
--Tratar de hacerlo entrar en error presionando muchas teclas al mismo tiempo.
+3- Tratar de hacerlo entrar en error presionando muchas teclas al mismo tiempo.
 
--Desarmarlo teniendo en cuenta el orden, tamaño y disposición de los tornillos.
+4- Desarmarlo
 
--Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
+5- Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
 
--
+6- 
