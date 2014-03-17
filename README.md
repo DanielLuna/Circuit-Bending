@@ -15,4 +15,6 @@ Notas sobre Circuit Bending
 
 [Proyecto casa de música electrónica](https://github.com/son0p/eeleX)
 
+[Referencias](referencias.md) 
+
 
