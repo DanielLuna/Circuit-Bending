@@ -1,8 +1,7 @@
 
+Se entrega a cada estudiante un circuito con las carácteristicas de un aparato o juguete electrónico y se proponen los siguientes ejercicios:
 
-Se entrega a cada estudiante un circuito electrónico con las carácteristicas de un aparato o juguete electrónico y se proponen los siguientes ejercicios:
-
-1- conectarle la bateria. 
+1- conectarle la bateria. [Solución](solución.md) 
 
 2- Decir en sus palabras como entiende su funcionamiento.
 
