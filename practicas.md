@@ -12,10 +12,12 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 6- Que otros componentes le pueden agregar al circuito.
 
-7- ¿que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste? [Solución](solucion700.md)
+7- ¿Que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste? [Solución](solucion700.md)
 
 8- Agregarle un suiche para el encendido. [Solución](solucion800.md)
 
-9- Crear una salida de linea para el circuito.[método sencillo](solucion900.md) [método ByPass](solucion901.md) 
+9- Crear una salida de linea para el circuito. 
+* [método sencillo](solucion900.md) 
+* [método ByPass](solucion901.md) 
 
 
