@@ -14,6 +14,6 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 7- ¿que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste? [Solución](solucion700.md)
 
-8- Agregarle un suiche de encendido. [Solución](solucion800.md)
+8- Agregarle un suiche para el encendido. [Solución](solucion800.md)
 
 
