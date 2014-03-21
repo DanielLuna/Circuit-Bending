@@ -18,6 +18,19 @@
 
 
 
+*Cortocircuitaje creativo o Circuit Bending 
+
+Integra y modifica objetos electrónicos sin una relación aparente, se inspira en el error, en ocasiones como medio de reflexión social. 
+
+Se suelen emplear aparatos de bajo voltaje, muchas veces limitados en su conectividad con otros dispositivos o carentes de esta, buscando ampliar sus posibilidades o personalizarlas, analizando cómo se pueden aprovechar sus componentes, más que su  funcionamiento  original, y cómo influye o influyó  este objeto en la cultura y la sociedad a fin de encontrar argumentos interpretativos.
+
+Es común usar en la creación, entre otros, juguetes o aparatos de pilas, incluso, de los que se llega a pensar que no se pueden conectar con algo más, al igual que se busca aprovechar las fallas de funcionamiento a causa del desgaste o provocarlas intencionalmente, buscando dar otra mirada a nuestra sociedad digital.
+
+  
+
+
+
+
 
 
 
