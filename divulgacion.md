@@ -1,11 +1,28 @@
 *Cortocircuitaje creativo o Circuit Bending 
 
+
 Integra y modifica objetos electrónicos sin una relación aparente, se inspira en el error, en ocasiones como medio de reflexión social. 
 
 
 Una manera de modificar cosas es juntar dos dispositivos que no se pensó que pudieran funcionar juntos, ejemplo: Un control de un video juego y una organeta; el circuit bending le enseña, a encontrar nuevos usos a un aparato y a aprovechar los daños o fallas como algo positivo, como Reed Ghazala quien luego de destapar un radio y poner su mano sobre el circuito, descubrió sonidos que asemejan al espacio.
 
 El cortocircuitaje creativo también lleva hacerse preguntas respecto a como se fabrican los articulos electrónicos que comunmente usamos y como afecta la fabricación de estos  a nuestro planeta. 
+
+
+Para entender un poco más acerca de la integración, debemos mirar el circuito como una gran ciudad llena de maneras de comunicarse, además mirar que esta compuesto por componentes que podemos hallar en otros objetos.
+
+Probemos algo: 
+
+cambiarle al circuito una de las resistencias por una fotocelda:
+
+Consideremos el error no como algo negativo, sino, como algo que no conocemos 
+
+
+
+
+
+
+
 
 
 
