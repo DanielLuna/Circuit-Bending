@@ -7,6 +7,11 @@ Se suelen emplear aparatos de bajo voltaje, muchas veces limitados en su conecti
 Es común usar en la creación, entre otros, juguetes o aparatos de pilas, incluso, de los que se llega a pensar que no se pueden conectar con algo más, al igual que se busca aprovechar las fallas de funcionamiento a causa del desgaste o provocarlas intencionalmente, buscando dar otra mirada a nuestra sociedad digital.
 
 
+Una manera de inventar cosas es unir dos aparatos que no se pensó que pudieran funcionar juntos, por ejemplo: Un control de un video y una organeta, el circuit bending le enseña, a encontrar nuevos usos a un aparato y a aprovechar los daños o fallas como algo positivo, por ejemplo Reed Ghazala luego de destapar un radio y poner su mano sobre el circuito descubrio sonidos que asemejan al espacio, tambien a hacerse preguntas respecto a como se fabrican los articulos electrónicos que comunmente usamos y como afecta la fabricación de estos nuestro planeta. 
+
+
+
+
 
   
 
