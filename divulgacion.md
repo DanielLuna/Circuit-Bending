@@ -1,4 +1,13 @@
-*Cortocircuitaje creativo o Circuit Bending 
+*Cortocircuitaje creativo
+
+
+Es una invitación a tomar un caimán, unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético y de reflexión.
+
+
+
+
+
+
 
 
 Integra y modifica objetos electrónicos sin una relación aparente, se inspira en el error, en ocasiones como medio de reflexión social. 
