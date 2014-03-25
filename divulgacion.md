@@ -1,30 +1,38 @@
-*Cortocircuitaje creativo
+##Cortocircuitaje creativo##
+----
 
 
-Es una invitación a tomar un caimán, unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético y de reflexión.
-
-
-
-
+*Es una invitación a tomar un caimán, unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.*
 
 
 
+*Es una forma de inventar, de juntar dispositivos de mundos distintos, ejemplo: Un control de un video juego y una organeta. El circuit bending le enseña a encontrar nuevos usos a un aparato y aprovechar los daños o fallas como algo positivo, como Reed Ghazala, quien luego de destapar un radio y poner su mano sobre el circuito, descubrió sonidos que asemejan al espacio.*
 
-Integra y modifica objetos electrónicos sin una relación aparente, se inspira en el error, en ocasiones como medio de reflexión social. 
-
-
-Una manera de modificar cosas es juntar dos dispositivos que no se pensó que pudieran funcionar juntos, ejemplo: Un control de un video juego y una organeta; el circuit bending le enseña, a encontrar nuevos usos a un aparato y a aprovechar los daños o fallas como algo positivo, como Reed Ghazala quien luego de destapar un radio y poner su mano sobre el circuito, descubrió sonidos que asemejan al espacio.
-
-El cortocircuitaje creativo también lleva hacerse preguntas respecto a como se fabrican los articulos electrónicos que comunmente usamos y como afecta la fabricación de estos  a nuestro planeta. 
+*El circuit bending lleva también a hacerse preguntas respecto a como se fabrican los articulos electrónicos que comunmente usamos y como afecta la fabricación de estos nuestro planeta.* 
 
 
-Para entender un poco más acerca de la integración, debemos mirar el circuito como una gran ciudad llena de maneras de comunicarse, además mirar que esta compuesto por componentes que podemos hallar en otros objetos.
 
-Probemos algo: 
+Muchos lo práctican como un hobbie, otros hacen de este un estilo de vida y otros lo integran en su obra.
 
-cambiarle al circuito una de las resistencias por una fotocelda:
+Atravez de la modificación, puede darle un nuevo uso a ese viejo juguete o instrumento musical que ya no es tan divertido y así: revivirlo, traerlo a esta época, pintarlo como quiera y hacerlo parte de su montaje.
 
-Consideremos el error no como algo negativo, sino, como algo que no conocemos 
+
+Para entender mas acerca de la modificación, propongo lo siguiente:
+
+
+cambie en el circuito una de las resistencias por una fotocelda.
+Cubre la fotocelda con tu mano y deja pasar la luz también
+
+¿Que notas?
+¿Cúal prefieres?
+¿conoces algo que funcione parecido?
+
+
+
+
+
+
+
 
 
 
