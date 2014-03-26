@@ -2,50 +2,59 @@
 ----
 
 
-*Es una invitación a tomar un caimán, unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.*
+
+*Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.*
 
 
+*Es una práctica que lleva a inventar, re inventar, a juntar dispositivos de mundos distintos ejemplo: un control de un video juego y una organeta, aumentar las posibilidades, a buscar una manera de integrarlo en su ensamble electrónico .* 
 
-*Es una forma de inventar, de juntar dispositivos de mundos distintos, ejemplo: Un control de un video juego y una organeta. El circuit bending le enseña a encontrar nuevos usos a un aparato y aprovechar los daños o fallas como algo positivo, como Reed Ghazala, quien luego de destapar un radio y poner su mano sobre el circuito, descubrió sonidos que asemejan al espacio.*
 
-*El circuit bending lleva también a hacerse preguntas respecto a como se fabrican los articulos electrónicos que comunmente usamos y como afecta la fabricación de estos nuestro planeta.* 
+*Encontrara nuevos usos a los objetos cotidianos y aprovechara las fallas de este (accidentales o provocadas) en el proceso creativo, como Reed Ghazala, quien luego de destapar un radio y poner su mano sobre el circuito, descubrió sonidos que asemejan al espacio.*
+
+*El circuit bending propone también preguntas respecto a como se elaboran los articulos electrónicos que comunmente usamos y como afecta la fabricación de estos nuestro planeta.* 
 
 
 
 Muchos lo práctican como un hobbie, otros hacen de este un estilo de vida y otros lo integran en su obra.
 
-Atravez de la modificación, puede darle un nuevo uso a ese viejo juguete o instrumento musical que ya no es tan divertido y así: revivirlo, traerlo a esta época, pintarlo como quiera y hacerlo parte de su montaje.
+Atravez de la *modificación*, puede darle un nuevo uso a ese viejo juguete o instrumento musical que ya no es tan divertido y así: revivirlo, traerlo a esta época, pintarlo como quiera y hacerlo parte de su montaje.
 
 
-Para entender mas acerca de la modificación, propongo lo siguiente:
+Para entender mas acerca de la modificación y la unión de aparatos propongo lo siguiente:
 
 
 cambie en el circuito una de las resistencias por una fotocelda.
 Cubra la fotocelda con la mano y también deje pasar la luz.
 
 * ¿Que nota?
-* ¿Cúal prefiere?
+* ¿Cúal componente prefiere? 
 * ¿conoce algo que funcione parecido?
+* ¿Que pasaría si usa ambos?
+* 
 
 
-Otro elemento que está todo el tiempo presente es el error, ¿le asusta? pues bien, no necesariamente significa que no sirva, que esté descompuesto o sea peligroso, es otra manera de funcionar y se le llama error porque no es la misma forma de funcionar que diseño el fabricante.
+Otro elemento que está todo el tiempo presente en el cortocircuitaje creativo es el *Error o Glitch*, ¿le asusta? pues bien, no necesariamente significa que este roto, inservible, descompuesto o que sea peligroso. Es otra ruta que toma el flujo de la energía en el  circuito y se le llama así, ya que no funciona de la misma manera que propuso el fabricante.
+
 
 Generar errores:
 
 Use nuevamente el circuito con la modificación del ejemplo anterior y agregue un potencionetro o una fotoresistencia en el cable positivo de las pilas.
 
-* ¿como sabe que debe cambiar la baterías a un juguete?
+* ¿Como sabe que debe cambiar la baterías a un juguete?
+* ¿Que pasa cuando gira el potenciometro?
+* ¿Que ocurre si usa un potenciometro de otro valor?
+* Proponga dos objetos que conectaría y de que manera.
 
 
 Reflexione:
 
-Digamos que el circuito que usamos de ejemplo, sin las dos pequeñas modificaciones propuestas anteriormente, luego de un tiempo se volvería aburrido y podría optar por tirarlo a la basura. Asi mismo sucede en la vida cotidiana, muchas veces las personas tiran aparatos que aún pueden tener opciones de uso, incluso algunas que superarían la tecnología actual.
+Digamos que el circuito que usamos de ejemplo, sin las dos pequeñas modificaciones propuestas anteriormente, luego de un tiempo se volvería aburrido y como muchos podría optar por tirarlo a la basura. Asi mismo sucede en la vida cotidiana, muchas veces las personas tiran aparatos que aún pueden tener opciones de uso (incluso algunos que con pequeñas modificaciones superarían la funcionalidad de la tecnología actual). 
 
-Esto genera una gran cantidad de basura, porque los fabricantes no están deacuerdo en muchas cosas, es ahí donde nosotros debebos aplicar los conceptos de Modificación, Error y reflexión para hacer del cortocircuitaje creativo un medio de expresión a prueba de tiempo y cadenas de consumo.
+Esto genera una gran cantidad de basura, porque los diferentes fabricantes no están deacuerdo en muchas cosas, Por ejemplo: los conectores de los cargadores de celular; es ahí donde nosotros debebos aplicar los conceptos de Modificación, Error y reflexión para hacer del cortocircuitaje creativo un medio de expresión a prueba de tiempo, de limitaciones económicas, de funcionalidad y cadenas de consumo.
 
  * Proponga que podrías hacer con el circuito ejemplo en 20 años.
-
-
+ * ¿Que otras modificaciones se le ocurren para el circuito?
+ 
 
 
 
