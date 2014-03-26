@@ -21,11 +21,29 @@ Para entender mas acerca de la modificación, propongo lo siguiente:
 
 
 cambie en el circuito una de las resistencias por una fotocelda.
-Cubre la fotocelda con tu mano y deja pasar la luz también
+Cubra la fotocelda con la mano y también deje pasar la luz.
 
-¿Que notas?
-¿Cúal prefieres?
-¿conoces algo que funcione parecido?
+* ¿Que nota?
+* ¿Cúal prefiere?
+* ¿conoce algo que funcione parecido?
+
+
+Otro elemento que está todo el tiempo presente es el error, ¿le asusta? pues bien, no necesariamente significa que no sirva, que esté descompuesto o sea peligroso, es otra manera de funcionar y se le llama error porque no es la misma forma de funcionar que diseño el fabricante.
+
+Generar errores:
+
+Use nuevamente el circuito con la modificación del ejemplo anterior y agregue un potencionetro o una fotoresistencia en el cable positivo de las pilas.
+
+* ¿como sabe que debe cambiar la baterías a un juguete?
+
+
+Reflexione:
+
+Digamos que el circuito que usamos de ejemplo, sin las dos pequeñas modificaciones propuestas anteriormente, luego de un tiempo se volvería aburrido y podría optar por tirarlo a la basura. Asi mismo sucede en la vida cotidiana, muchas veces las personas tiran aparatos que aún pueden tener opciones de uso, incluso algunas que superarían la tecnología actual.
+
+Esto genera una gran cantidad de basura, porque los fabricantes no están deacuerdo en muchas cosas, es ahí donde nosotros debebos aplicar los conceptos de Modificación, Error y reflexión para hacer del cortocircuitaje creativo un medio de expresión a prueba de tiempo y cadenas de consumo.
+
+ * Proponga que podrías hacer con el circuito ejemplo en 20 años.
 
 
 
