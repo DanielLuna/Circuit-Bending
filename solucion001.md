@@ -4,5 +4,7 @@
 
 - Uno Negro que debe conectarse al que aparece en el circuito con (-)
 
+- El encendido es automático
+
 
   
