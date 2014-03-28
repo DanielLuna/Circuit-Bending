@@ -6,7 +6,7 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 3- Agregar un LED como luz de funcionamiento.[Solución](solucion300.md)
 
-4- Agregar un LED que reaccione deacuerdo a la intensidad sonora.
+4- Agregar un LED que reaccione deacuerdo a la intensidad sonora. [Solución](solución400.md)
 
 5- Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
 
