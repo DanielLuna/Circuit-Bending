@@ -54,7 +54,7 @@ Esto genera una gran cantidad de basura, porque los diferentes fabricantes no es
 
  * Proponga que podrías hacer con el circuito ejemplo en 20 años.
  * ¿Que otras modificaciones se le ocurren para el circuito?
- 
+ * ¿cómo convertiría en instrumento músical un objeto electrónico que encuentre en la basura?
 
 
 
