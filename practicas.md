@@ -1,12 +1,12 @@
 Se entrega a cada estudiante un circuito con las carácteristicas de un aparato o juguete electrónico y se proponen los siguientes ejercicios:
 
-1- conectarle la bateria. [Solución](solucion001.md) 
+1- Conectar la bateria al circuito y encenderlo. [Solución](solucion001.md) 
 
-2- Ponerlo a funcionar.
+2- Agregar un suiche de encendido.
 
-3- Que hace?
+3- Agregar un LED como luz de funcionamiento.
 
-4- Desarmarlo. 
+4- Agregar un LED que reaccione deacuerdo a la intensidad sonora.
 
 5- Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
 
