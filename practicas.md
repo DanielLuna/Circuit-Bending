@@ -8,9 +8,9 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 4- Agregar un LED que reaccione deacuerdo a la intensidad sonora. [Solución](solución400.md)
 
-5- Preguntarle al estudiante que componentes observa, cuales reconoce y como considera, en sus palabras, como funciona y     de que manera se integra con los demás componentes en el circuito.
+5- Suelde una salida de linea para amplificar o escuchar con audifonos nuestro circuito.
 
-6- Que otros componentes le pueden agregar al circuito.
+6- 
 
 7- ¿Que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste? [Solución](solucion700.md)
 
