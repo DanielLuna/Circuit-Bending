@@ -8,9 +8,9 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 4- Agregar un LED que reaccione deacuerdo a la intensidad sonora. [Solución](solución400.md)
 
-5- Suelde una salida de linea para amplificar o escuchar con audifonos nuestro circuito.
+5- Suelde una salida de linea para amplificar o escuchar con audifonos el circuito.
 
-6- 
+6- Tome un caimán y comience a unir puntos en el circuito
 
 7- ¿Que le sucede a un aparato cuando la batería se está agotando y con que componentes se puede simular el desgaste? [Solución](solucion700.md)
 
