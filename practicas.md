@@ -2,9 +2,9 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 1- Conectar la bateria al circuito y encenderlo. [Solución](solucion001.md) 
 
-2- Agregar un suiche de encendido.
+2- Agregar un suiche de encendido. [Solución](solucion200.md)
 
-3- Agregar un LED como luz de funcionamiento.
+3- Agregar un LED como luz de funcionamiento.[Solución](solucion300.md)
 
 4- Agregar un LED que reaccione deacuerdo a la intensidad sonora.
 
