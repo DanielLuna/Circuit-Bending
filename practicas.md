@@ -6,9 +6,9 @@ Se entrega a cada estudiante un circuito con las carácteristicas de un aparato 
 
 3- Agregar un LED como luz de funcionamiento.[Solución](solucion300.md)
 
-4- Agregar un LED que reaccione deacuerdo a la intensidad sonora. [Solución](solución400.md)
+4- Agregar un LED que reaccione deacuerdo a la intensidad sonora. [Solución](solucion400.md)
 
-5- Suelde una salida de linea para amplificar o escuchar con audifonos el circuito.
+5- Suelde una salida de linea para amplificar o escuchar con audifonos el circuito. [solución](solucion500.md)
 
 6- Tome un caimán y comience a unir puntos en el circuito
 
