@@ -3,7 +3,7 @@ Circuit Bending
 
 Notas sobre Circuit Bending
 
- [Aleatron](http://experimentalistsanonymous.com/diy/Schematics/Circuit%20Bending%20and%20Modifications/Casio%20SK-1%20Aleatron%20Bending%20Diagram.jpg)
+ ![](http://experimentalistsanonymous.com/diy/Schematics/Circuit%20Bending%20and%20Modifications/Casio%20SK-1%20Aleatron%20Bending%20Diagram.jpg)
 
 [Divulgación](divulgacion.md)
 
