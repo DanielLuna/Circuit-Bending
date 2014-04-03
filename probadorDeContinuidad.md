@@ -21,6 +21,8 @@
 
 1- Suelde el lado positivo del LED (el mas largo) al cable rojo del porta pilas
 
+![1](img_1508.jpg)
+
 
 
 
