@@ -13,5 +13,12 @@
 ![Caimanes](http://image.made-in-china.com/43f34j00bBLtFHyaneYN/Alligator-Clip-Test-Leads-Wires-30cm-5-Colours-Jumper-Cable-Wires-pack-of-10.jpg)
 
 
+##Instrucciones
+
+
+
+1- Suelde el lado positivo del LED (el mas largo) al cable rojo del porta pilas
+
+
 
 
