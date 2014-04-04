@@ -1,3 +1,10 @@
+##Prácticas
+
+
+
+Se entrega a cada estudiante un circuito electrónico con las carácteristicas de un juguete sonoro y se proponen las siguientes actividades prácticas, que integran los conceptos básicos del circuit bending a manera de preguntas:
+
+
 [conecte la batería](solucion001.md) al circuito, y apartir de observar su funcionamiento:
 
 - ¿Que otro componente electrónico le agregaría?
@@ -6,9 +13,9 @@
 
 - ¿Que componente o componentes quitaría?
 
-- ¿Puede aprovechar la luz del LED para activar algo en el juguete?
+- ¿puede usar la luz del LED o la corriente que le llega?
 
-Pensando en un circuito como un sistema ordenado de procesos eléctricos:
+Pensando en el circuito como un sistema ordenado de procesos eléctricos:
 
 - ¿Cómo podría generar errores?
 
@@ -17,6 +24,12 @@ Pensando en un circuito como un sistema ordenado de procesos eléctricos:
 - ¿Que es error en sus palabras y como lo aprovecharía?
 
 - ¿Podría juntar un error de un juguete sonoro con el circuito, o viceversa?
+
+
+
+
+
+
 
 
 
