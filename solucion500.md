@@ -1,8 +1,7 @@
 
+__Jack monofónico de carcaza__
 
-__Jack monofónico de carcasa__
-
-Aquí se presentan dos ejemplos de los jack de carcaza mas comunes:
+Aquí se presentan dos ejemplos de los jack de carcaza para  mas comunes para linea de audio de 1/8 :
 
 * Jack con caja:
 
