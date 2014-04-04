@@ -13,7 +13,7 @@ Se entrega a cada estudiante un circuito electrónico con las carácteristicas d
 
 - ¿Que componente o componentes quitaría?
 
-- ¿puede usar la luz del LED o la corriente que le llega?
+- ¿Puede usar la luz del LED o la corriente que le llega?
 
 Pensando en el circuito como un sistema ordenado de procesos eléctricos:
 
