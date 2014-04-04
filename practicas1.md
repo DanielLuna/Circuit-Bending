@@ -11,7 +11,7 @@ Se entrega a cada estudiante un circuito electrónico con las carácteristicas d
 
 - ¿Con que juguete sonoro lo integraría y de que manera? [Solución](solupractica100.md)
 
-- ¿Que componente reemplazaría y por cual?
+- ¿Que componente reemplazaría y por cual? [Solución](solupractica200.md)
 
 - ¿Puede usar la luz del LED o la corriente que le llega?
 
