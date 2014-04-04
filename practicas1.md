@@ -19,7 +19,7 @@ Pensando en el circuito como un sistema ordenado de procesos eléctricos:
 
 - ¿Cómo podría generar errores? [Solución](solupractica400.md)
 
-- ¿Cómo se da cuenta que debe cambiar las baterías de un juguete sonoro? 
+- ¿Cómo se da cuenta que debe cambiar las baterías de un juguete sonoro? [Solución](solupractica500.md) 
 
 - ¿Que es error en sus palabras y como lo aprovecharía?
 
