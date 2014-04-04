@@ -7,7 +7,7 @@ Se entrega a cada estudiante un circuito electrónico con las carácteristicas d
 
 [conecte la batería](solucion001.md) al circuito, y apartir de observar su funcionamiento:
 
-- ¿Que otro componente electrónico le agregaría?
+- ¿Que otro componente electrónico le agregaría? [Solución](solupractica001.md)
 
 - ¿Con que juguete sonoro lo integraría y de que manera?
 
