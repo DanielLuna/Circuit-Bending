@@ -12,7 +12,7 @@ __Puede agregarle por ejemplo__
 
 * Un motor en el led
 
-* Un [jack de audio](solución500.md)
+* Un [jack de audio](solucion500.md)
 
 
 
