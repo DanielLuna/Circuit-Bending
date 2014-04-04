@@ -12,7 +12,9 @@
 
 * El LED por un llavero musical.
 
-* El parlante por una salida de linea de audio.
+* El parlante por una salida de [linea de audio](solucion500.md)
+
+
 
 
 
