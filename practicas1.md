@@ -9,7 +9,7 @@ Se entrega a cada estudiante un circuito electrónico con las carácteristicas d
 
 - ¿Que otro componente electrónico le agregaría? [Solución](solupractica001.md)
 
-- ¿Con que juguete sonoro lo integraría y de que manera?
+- ¿Con que juguete sonoro lo integraría y de que manera? [Solución](solupractica100.md)
 
 - ¿Que componente o componentes quitaría?
 
