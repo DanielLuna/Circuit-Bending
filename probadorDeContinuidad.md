@@ -1,6 +1,6 @@
 ##Materiales:
 
-*  1 Porta pilas doble para pilas AA
+* 1 Porta pilas doble para pilas AA
 
 ![porta pilas](http://media.silicio.mx/media/catalog/product/cache/1/image/650x650/5e06319eda06f020e43594a9c230972d/p/o/pow03191b/Soporte-para-2-bater%C3%ADas-AA-31.jpg)
  img src="http://media.silicio.mx/media/catalog/product/cache/1/image/650x650/5e06319eda06f020e43594a9c230972d/p/o/pow03191b/Soporte-para-2-bater%C3%ADas-AA-31.jpg" width="640" height="480" ]
@@ -22,6 +22,9 @@
 1- Suelde el lado positivo del LED (el mas largo) al cable rojo del porta pilas
 
 ![1](img_1508.jpg)
+
+
+
 
 
 
