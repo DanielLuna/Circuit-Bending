@@ -28,6 +28,7 @@ Pensando en el circuito como un sistema ordenado de procesos eléctricos:
 Reflexione
 
 - ¿Que objeto encontrado en la basura le gustaría modificar y como?
+
 - 
 
 
