@@ -25,6 +25,10 @@ Pensando en el circuito como un sistema ordenado de procesos eléctricos:
 
 - ¿Podría juntar un error de un juguete sonoro con el circuito, o viceversa?
 
+Reflexione
+
+- ¿Que objeto encontrado en la basura le gustaría modificar y como?
+- 
 
 
 
