@@ -31,6 +31,7 @@ Reflexione
 
 - ¿Que características considera que debe tener un juguete sonoro para que sea modificable y dure mucho tiempo siendo     útil?
 
+- ¿Que estrategía propone para recojer juguetes sonoros?
 
 
 
