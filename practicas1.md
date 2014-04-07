@@ -2,10 +2,10 @@
 
 
 
-Se entrega a cada estudiante un circuito electrónico con las carácteristicas de un juguete sonoro y se proponen las siguientes actividades prácticas, que integran los conceptos básicos del circuit bending a manera de preguntas:
+Se entrega a cada estudiante un circuito electrónico con las características de un juguete sonoro y se proponen las siguientes actividades prácticas, que integran los conceptos básicos del circuit bending a manera de preguntas:
 
 
-[conecte la batería](solucion001.md) al circuito, y apartir de observar su funcionamiento:
+[conecte la batería](solucion001.md) al circuito, y a partir de observar su funcionamiento:
 
 - ¿Que otro componente electrónico le agregaría? [Solución](solupractica001.md)
 
@@ -29,7 +29,9 @@ Reflexione
 
 - ¿Que objeto encontrado en la basura le gustaría modificar y como?
 
-- 
+- ¿Que características considera que debe tener un juguete sonoro para que sea modificable y dure mucho tiempo siendo     útil?
+
+
 
 
 
