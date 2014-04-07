@@ -13,7 +13,7 @@ Se entrega a cada estudiante un circuito electrónico con las características d
 
 - ¿Que componente reemplazaría y por cual? [Solución](solupractica200.md)
 
-- ¿Puede usar la luz del LED o la corriente que le llega?
+- ¿Que haría usted con la luz del LED o la corriente que le llega?
 
 Pensando en el circuito como un sistema ordenado de procesos eléctricos:
 
