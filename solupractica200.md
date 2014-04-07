@@ -2,7 +2,7 @@
 
 * Reemplazar una resistencia por un potenciometro.
 
-* La batería por un motor.
+* La batería por un dinamo (motor)
 
 * La batería por un panel solar.
 
