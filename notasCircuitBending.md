@@ -1,5 +1,4 @@
 
-
 * Aleatron: Nombre que se le da a los instrumentos musicales circuit bending capaces de producir sonidos aleatorios o música
 
 * Alienigena: Es un aspecto estético y un tema recurrente en la creación de circuit bending, inspirado en el sci-fi
@@ -35,6 +34,11 @@
   Precauciones 
   
   Perforar
+  
+  crear parrafo corto de divulgación.
+  
+  
+  
   
   
   
