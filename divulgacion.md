@@ -2,26 +2,32 @@
 ----
 
 
-
 Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
 
+Su práctica lo llevara a inventar, re inventar,  juntar dispositivos de mundos distintos (ejemplo: un control de un video juego y una organeta), aumentar las funciones de estos y buscar nuevas maneras de integrar aparatos sonoros y/o de vídeo, en su ensamble electrónico. 
 
-Es una práctica que lleva a inventar, re inventar, a juntar dispositivos de mundos distintos (ejemplo: un control de un video juego y una organeta), aumentar las posibilidades, a buscar una manera de integrarlo en su ensamble electrónico. 
-Encontrara nuevos usos a los objetos cotidianos y aprovechara las fallas de este (accidentales o provocadas) en el proceso creativo, como Reed Ghazala, quien luego de destapar un radio y poner su mano sobre el circuito, descubrió sonidos que asemejan al espacio.
-El circuit bending propone también preguntas respecto a como se elaboran los artículos electrónicos que comúnmente usamos y como afecta la fabricación de estos nuestro planeta.
+Encontrara nuevos usos a los objetos cotidianos y aprovechará las fallas de este (accidentales o provocadas) en el proceso creativo, como Reed Ghazala, quien luego de destapar una radio y poner su mano sobre el circuito, descubrió sonidos que se asemejan al espacio.
 
+El cortocircuitaje creativo propone preguntas respecto a como se elaboran los artículos electrónicos que comúnmente usamos y como afectan la fabricación de estos a los animales y a nuestro planeta.
 
 Muchos lo practican como un hobby, otros hacen de este un estilo de vida y otros lo integran en su obra.
-A través de la __modificación__, puede darle un nuevo uso a ese viejo juguete o instrumento musical que ya no es tan divertido y así: revivirlo, traerlo a esta época, pintarlo como quiera y hacerlo parte de su montaje.
 
-Para entender mas acerca de la modificación y la unión de aparatos propongo lo siguiente: cambie en el circuito una de las resistencias por una fotocelda, cubra la fotocelda con la mano  lentamente aleje y acerque la mano dejando pasar la luz:
+A través de la __modificación__, puede darle un nuevo uso a ese viejo juguete o instrumento musical que ya no es tan divertido y así: revivirlo, traerlo a esta época, pintarlo, decorarlo como quiera y hacerlo parte de su montaje.
 
-* ¿Que nota?
-* ¿Cúal componente prefiere entre la resistencia y la fotocelda?  y ¿porqué? 
+Es un proceso de experimentación continuo y multidisciplinario con el que se busca recuperar circuitos ya montados, ahorrando tiempo de ensamble y dinero, asimismo, ayudando a entender el concepto de módulos, y evitar al máximo las limitaciones generadas por cuestiones de conectividad o la vida útil planeada originalmente.
+
+Con el cortocircuitaje creativo se logra integrar de una manera optima:
+Las artes, la música y la electrónica, avanzando juntas en el proceso de creación, siendo fundamentales en el aprendizaje como también para evitar la rutina, aumentar la creatividad y encontrar fortalezas.
+
+
+Para entender mas acerca de la modificación y la unión de aparatos se propone lo siguiente: cambiar en el circuito una de las resistencias por una fotocelda, cubrir la fotocelda con la mano, lentamente alejar y acercar la mano dejando pasar la luz.
+
+* ¿Que nota y como se puede manipular para crear sonidos diferentes?
+* ¿Cual componente prefiere entre la resistencia y la fotocelda?  y ¿porqué? 
 * ¿Conoce algún componente electrónico que funcione parecido a la fotocelda o la resistencia?
 * ¿Que pasaría si usa ambos?
 
-Otro elemento que está todo el tiempo presente en el cortocircuitaje creativo es el *Error o Glitch*, ¿le asusta? pues bien, en ésta  práctica busca inducir estos errores o Glitch de manera intencional y no necesariamente significa que este roto, inservible, descompuesto o que sea peligroso, es otra ruta que toma el flujo de la energía en el  circuito, se le llama error, pues no funciona de la misma manera que propuso el fabricante en su diseño original.
+Otro elemento que está todo el tiempo presente en el cortocircuitaje creativo es el *Error o Glitch*, ¿le asusta? pues bien, ésta  práctica busca inducir estos errores o Glitch de manera intencional y no necesariamente significa que este roto, inservible, descompuesto o que sea peligroso, es otra ruta que toma el flujo de la energía en el  circuito, se le llama error, pues no funciona de la misma manera que propuso el fabricante en su diseño original.
 
 Ahora vamos a generar errores, use nuevamente el circuito con la modificación del ejemplo anterior y agregue un potenciómetro o una fotorresistencia en el cable positivo de las pilas.
 
@@ -32,16 +38,11 @@ Ahora vamos a generar errores, use nuevamente el circuito con la modificación d
 
 
 Ahora reflexione,  el circuito que usó de ejemplo sin las modificaciones propuestas anteriormente, luego de un tiempo, se volvería aburrido y  podría optar por tirarlo a la basura. Así mismo sucede en la vida cotidiana, muchas veces las personas tiran aparatos que aún podrían tener opciones de uso (incluso algunos con pequeñas modificaciones, superarían la funcionalidad original). 
-También  genera una gran cantidad de basura, el hecho porque los diferentes fabricantes no están de acuerdo en muchas cosas, Por ejemplo: los conectores de los cargadores de celular; es ahí donde nosotros debebos aplicar los conceptos de Modificación, Error y reflexión para hacer del cortocircuitaje creativo un medio de expresión a prueba de tiempo, de limitaciones económicas, de funcionalidad y cadenas de consumo.
+También  genera una gran cantidad de basura, el hecho que los fabricantes no estén de acuerdo en muchas cosas, Por ejemplo: los conectores de los cargadores de celular; es ahí donde nosotros debemos aplicar los conceptos de Modificación, Error y reflexión para hacer del cortocircuitaje creativo un medio de expresión a prueba de tiempo, de limitaciones económicas, de funcionalidad y cadenas de consumo.
 
- * Proponga que podrías hacer con el circuito ejemplo en 20 años.
+ * Proponga que podrías hacer con el circuito que usamos ejemplo en 20 años.
  * ¿Que otras modificaciones se le ocurren para el circuito?
  * ¿cómo convertiría en instrumento músical un objeto electrónico que encuentre en la basura?
-
-
-
-
-
 
 
 
