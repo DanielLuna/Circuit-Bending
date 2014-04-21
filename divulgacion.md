@@ -19,15 +19,13 @@ A través de la __modificación__, puede darle un nuevo uso a ese viejo juguete 
 Es un proceso de experimentación continuo y multidisciplinario con el que se busca recuperar circuitos ya montados, ahorrando tiempo de ensamble y dinero, asimismo, ayudando a entender el concepto de módulos, y evitar al máximo las limitaciones generadas por cuestiones de conectividad o la vida útil planeada originalmente.
 
 Con el cortocircuitaje creativo se logra integrar de una manera optima:
-Las artes, la música y la electrónica, avanzando juntas en el proceso de creación, siendo fundamentales en el aprendizaje como también para evitar la rutina, aumentar la creatividad y encontrar fortalezas.
-
-Permite gran variedad de combinaciones y maneras de experimentar, lo cual aumenta su atractivo, ya que cada instrumento o dispositivo creado es único, tanto en su diseño exterior, como en los efectos visuales o sonoros producidos y por la facilidad de encontrarlos sin correr riesgo de sufrir lesiones físicas a causa de descargas de voltaje, sin necesidad de conocimientos electrónicos avanzados, sin dejar inservible el objeto (en algunos casos), o sin necesidad de componentes complejos o costosos.
+Las artes, la música y la electrónica; permite gran variedad de combinaciones y maneras de experimentar, lo cual aumenta su atractivo, ya que cada dispositivo creado es único, tanto en su diseño exterior, como en los efectos visuales o sonoros producidos que pueden ser logrados sin correr riesgo de sufrir lesiones físicas a causa de descargas de voltaje, sin necesidad de conocimientos electrónicos avanzados, sin dejar inservible el objeto (en algunos casos), o sin necesidad de componentes complejos o costosos.
 
 En nuestra ciudad, desde hace aproximadamente cinco años, comenzó a hacerse popular entre algunos jóvenes con ganas de experimentar con electrónica, música, arte y programación incluso, con ganas de tocar y que por lo general no eran muy diestros con los instrumentos musicales convencionales, pero si en otras áreas, así que empezaron a fabricar los suyos. Aun siendo reciente aquí, en el mundo existe una gran comunidad de "circuit benders"  que han hecho de esta práctica un estilo de vida y de experimentación a prueba de tendencias o productos de moda, apreciando más la tecnología obsoleta en donde los computadores, sintetizadores, organetas, juguetes, etc, antiguos, están a la orden del día y son los más buscados.
 
 Para entender mas acerca de la modificación y la unión de aparatos se propone lo siguiente: cambiar en el circuito una de las resistencias por una fotocelda, cubrir la fotocelda con la mano, lentamente alejar y acercar la mano dejando pasar la luz.
 
-* ¿Que nota y como se puede manipular para crear sonidos diferentes?
+* ¿Que percibe y como se puede manipular para crear sonidos diferentes?
 * ¿Cual componente prefiere entre la resistencia y la fotocelda?  y ¿porqué? 
 * ¿Conoce algún componente electrónico que funcione parecido a la fotocelda o la resistencia?
 * ¿Que pasaría si usa ambos?
