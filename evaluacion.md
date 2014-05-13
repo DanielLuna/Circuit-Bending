@@ -14,7 +14,7 @@
 - Público: *¿Cuales tribus urbanas asisten?*
 
 
-Se busca que los asistentes a charla de cortocircuitaje creativo, comiecen a acercarse al mundo de las circuitos y a un entendimiento de este, a partir de reconsiderar el error en los circuitos electrónicos como algo positivo y útil para fines estéticos
+Se busca que los asistentes a charla de cortocircuitaje creativo, comiecen a acercarse al mundo de las circuitos y a un entendimiento de este, a partir de reconsiderar el error como algo positivo y útil para fines estéticos
 
 
 
