@@ -1,10 +1,14 @@
 ##Ideas Locas Para Ir Depurando
 
-Bobinas de tesla musical
-energía renovable
-sensorizar espacios
-instrumentos gigantes
-proyectores DIY
+- Bobinas de tesla musical
+- Energía renovable
+- Sensorizar espacios
+- Instrumentos gigantes
+- Proyectores DIY
+- Altavoces caseros
+- Pinturas sonoras y luminosas
+- Bending laser
+- 
 
 
 
