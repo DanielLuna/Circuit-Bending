@@ -8,6 +8,8 @@
 - Altavoces caseros
 - Pinturas sonoras y luminosas
 - Bending laser
+- secuenciadores magneticos
+- modulos 
 - 
 
 
