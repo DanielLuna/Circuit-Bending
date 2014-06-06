@@ -16,8 +16,8 @@
 - orquesta de hormigas
 - instrumentos con agua y luces
 - instrumentos aleatorios a partir de elementos naturales (viento, sol, lluvia...)
-- 
-- 
+- Director del secuenciador análogo vía osc
+- Conectar chuck con touch osc
 - 
 
 
