@@ -11,9 +11,9 @@ __Semana 4__ Integración de aparatos, juguetes, circuitos de mundos distintos e
 
 __Semana 5__ Integración de instrumentos creados por los alumnos.
 
-__Semana 6__ 
+__Semana 6__ Introducción al circuit bending de video
 
-__Semana 7__ 
+__Semana 7___Cortocircuitando poly station
 
 ___Semana 8___ 
 
