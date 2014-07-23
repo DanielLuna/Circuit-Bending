@@ -13,7 +13,7 @@ __Semana 5__ Integración de instrumentos creados por los alumnos.
 
 __Semana 6__ Introducción al circuit bending de video
 
-__Semana 7___Cortocircuitando poly station
+__Semana 7__Cortocircuitando poly station
 
 ___Semana 8___ 
 
