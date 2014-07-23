@@ -6,7 +6,8 @@ __Semana 2__ Jugar dominó electrónico, desarmar juguetes, buscar sonidos, caim
 
 __Semana 3__ Soldar los componentes (potenciometros, suiches, pulsadores, LED´s) a los puntos encontrados, y perforar la carcaza.
 
-__Semana 4__ Integración de aparatos, juguetes, y circuitos de mundos distintos.
+__Semana 4__ Integración de aparatos, juguetes, circuitos de mundos distintos e identificación de componentes de control 
+
 
 __Semana 5__ Integración de instrumentos creados por los alumnos.
 
