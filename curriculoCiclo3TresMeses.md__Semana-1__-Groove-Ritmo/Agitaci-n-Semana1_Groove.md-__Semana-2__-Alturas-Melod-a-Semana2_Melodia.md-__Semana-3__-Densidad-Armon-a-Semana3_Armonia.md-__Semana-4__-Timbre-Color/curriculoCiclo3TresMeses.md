@@ -4,13 +4,12 @@ __Semana 1__ Charla: Introducción al cortocircuitaje creativo
 __Semana 2__ Jugar dominó electrónico, desarmar juguetes, buscar sonidos, caimanizar
 
 
-__Semana 3__ Soldar los componentes (potenciometros, suiches, pulsadores, LED´s) a los efectos encontrados, y perforar la carcaza.
+__Semana 3__ Soldar los componentes (potenciometros, suiches, pulsadores, LED´s) a los puntos encontrados, y perforar la carcaza.
 
-__Semana 4__ 
+__Semana 4__ Integración de aparatos, juguetes, y circuitos de mundos distintos.
 
+__Semana 5__ Integración de instrumentos creados por los alumnos.
 
-
-__Semana 5__ 
 __Semana 6__ 
 
 __Semana 7__ 
