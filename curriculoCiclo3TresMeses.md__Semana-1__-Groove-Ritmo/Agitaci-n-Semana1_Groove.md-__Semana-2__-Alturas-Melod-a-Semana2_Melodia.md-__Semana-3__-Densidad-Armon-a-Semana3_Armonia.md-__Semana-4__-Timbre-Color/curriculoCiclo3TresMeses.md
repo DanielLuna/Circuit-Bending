@@ -15,7 +15,7 @@ __Semana 6__ Introducción al circuit bending de video
 
 __Semana 7__ Cortocircuitando poly station
 
-___Semana 8___ 
+__Semana 8__ 
 
 __Semana 9__ 
 __Semana 10__ 
