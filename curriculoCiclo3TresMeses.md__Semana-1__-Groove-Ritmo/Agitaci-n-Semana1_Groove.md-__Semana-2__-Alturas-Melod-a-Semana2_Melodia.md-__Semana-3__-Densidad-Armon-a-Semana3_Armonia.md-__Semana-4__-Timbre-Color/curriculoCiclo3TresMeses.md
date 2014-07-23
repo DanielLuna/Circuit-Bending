@@ -1,41 +1,25 @@
-__Semana 1__ [Groove (Ritmo/Agitación)](Semana1_Groove.md)   
+__Semana 1__ Charla: Introducción al cortocircuitaje creativo 
        
 
-__Semana 2__ [Alturas (Melodía)](Semana2_Melodia.md)
+__Semana 2__ Jugar dominó electrónico, desarmar juguetes, buscar sonidos, caimanizar
 
-__Semana 3__ [Densidad (Armonía)](Semana3_Armonia.md)
 
-__Semana 4__ [Timbre (Color/Textura)](Semana4_Timbre.md)
-* Filtros
-* Armónicos
-* Sub-Bajos
+__Semana 3__ Soldar los componentes (potenciometros, suiches, pulsadores, LED´s) a los efectos encontrados, y perforar la carcaza.
 
-__Semana 5__ Ambientación (espacialidad)
+__Semana 4__ 
 
-__Semana 6__ Transientes (Ataque de las notas)
 
-__Semana 7__ Innovación
-* Por negación
-* Por fusión
-* Por las fronteras
-* Por investigación
 
-___Semana 8___ Ruido
-* Aleatorio
-* Controlado
+__Semana 5__ 
+__Semana 6__ 
 
-__Semana 9__ Algoritmos
+__Semana 7__ 
 
-__Semana 10__ Estructuras
-* Lineales
-* Patrones
-* Generativas
+___Semana 8___ 
 
-__Semana 11__ Emotividad
-* Introducciones
-* Fills
-* Interludios
-* Contrastes
-* Finales
+__Semana 9__ 
+__Semana 10__ 
 
-__Semana 12__ Muestra de trabajos
+__Semana 11__ 
+
+__Semana 12__ 
