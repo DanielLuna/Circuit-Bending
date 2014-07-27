@@ -1,27 +1,44 @@
-__Semana 1__    
-       
 
-__Semana 2__ 
+__Semana 1__ [Groove (Ritmo/Agitación)](Semana1_Groove.md)   
+ 
 
-__Semana 3__ 
+__Semana 2__ [Alturas (Melodía)](Semana2_Melodia.md)
 
-__Semana 4__ 
+__Semana 3__ [Densidad (Armonía)](Semana3_Armonia.md)
 
-
-__Semana 5__ 
-
-__Semana 6__ 
-
-__Semana 7__ 
+__Semana 4__ [Timbre (Color/Textura)](semana4Timbre.md)
+* Filtros
+* Armónicos
+* Sub-Bajos
 
 
-___Semana 8___ 
+__Semana 5__ Ambientación (espacialidad)
 
-__Semana 9__ 
+__Semana 6__ Transientes (Ataque de las notas)
 
-__Semana 10__
+__Semana 7__ Innovación
+* Por negación
+* Por fusión
+* Por las fronteras
+* Por investigación
 
+___Semana 8___ Ruido
+* Aleatorio
+* Controlado
 
-__Semana 11__ 
+__Semana 9__ Algoritmos
 
-__Semana 12__ 
+__Semana 10__ Estructuras
+* Lineales
+* Patrones
+* Generativas
+
+__Semana 11__ Emotividad
+* Introducciones
+* Fills
+* Interludios
+* Contrastes
+* Finales
+
+__Semana 12__ Muestra de trabajos
+
