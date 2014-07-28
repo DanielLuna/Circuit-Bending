@@ -1,20 +1,19 @@
 
-__Semana 1__   
- 
+__Semana 1__ Charla: Introducción al cortocircuitaje creativo
 
-__Semana 2__ 
+__Semana 2__ Jugar dominó electrónico, desarmar juguetes, buscar sonidos, caimanizar
 
-__Semana 3__ 
+__Semana 3__ Soldar los componentes (potenciometros, suiches, pulsadores, LED´s) a los puntos encontrados, y perforar la carcaza.
 
-__Semana 4__ 
+__Semana 4__ Integración de aparatos, juguetes, circuitos de mundos distintos e identificación de componentes de control 
 
-__Semana 5__ 
+__Semana 5__ Integración tipo ensamble de los instrumentos creados por los alumnos.
 
-__Semana 6__ 
+__Semana 6__ Introducción al circuit bending de video o video-bending
 
-__Semana 7__ 
+__Semana 7__ Cortocircuitando poly station
 
-___Semana 8___ 
+__Semana 8__ 
 
 __Semana 9__ 
 
