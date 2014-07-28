@@ -11,3 +11,15 @@ Ejercicios para practicar las destrezas:
 
 Cada alumno posee un caimán el cuál deberá conservar. En caso que haya pocos juguetes u objetos, vamos a ir pasandolo y cada uno irá cortocircuitando con el caimán a fin de encontrar sonidos mas o menos densos y los iremos agrupando, es posible también explicarlo haciendo sonidos con la voz
 
+Creación o composición:
+
+Vamos a dibujar entre todos la estructura de nuestro ensamble, también haremos algunos soniditos para hacernos a una idea 
+de como sonará o como combinan entré si las diferentes densidades.
+
+Ensamble:
+
+Una vez tenemos definida la estructura y con los alumnos en posición haremos un ensamble que en lo posible se debe grabar.
+
+Conclusión/Evaluación:
+
+Cada alumno sacará un sonido sea con la voz o un objeto, y el siguiente compañero dirá que tan denso es este y por que?
