@@ -1,5 +1,6 @@
 
 Calentamiento:
+
 Iniciamos la clase con el ejercicio: energia, corto, caimán 
 
 Listar y explicar las destrezas que se van a aprender en la clase:
