@@ -1,7 +1,7 @@
 INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
 Evento:
 
-Clase Miércoles 30/08/2014
+Clase Miércoles 30/07/2014
 
 Locación:
 
